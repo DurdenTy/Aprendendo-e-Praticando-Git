@@ -1,0 +1,13 @@
+Windows                                                       Unix
+
+cd -> ir para diretório                                       cd -> ir para diretório                                       
+cd.. -> Voltar diretório                                      cd.. -> Voltar diretório
+dir -> Listar diretórios de um local                          ls -> Listar diretórios de um local
+cls -> Limpar tela                                            clear -> Limpar tela
+echo -> imprimir mensagem na tela                             echo -> imprimir mensagem na tela
+mkdir -> Cria uma pasta com o nome desejado                   mkdir -> Cria uma pasta com o nome desejado
+del -> Deletar arquivos dentro de uma pasta/repositório       -rm -rf -> Remover pasta com arquivos dentro.
+rmdir /S /Q -> Remover pasta com arquivos dentro.             echo Exeplo > Exemplo.txt -> Cria arquivos
+echo Exeplo > Exemplo.txt -> Cria arquivos
+
+
