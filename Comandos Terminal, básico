@@ -7,7 +7,11 @@ cls -> Limpar tela                                            clear -> Limpar te
 echo -> imprimir mensagem na tela                             echo -> imprimir mensagem na tela
 mkdir -> Cria uma pasta com o nome desejado                   mkdir -> Cria uma pasta com o nome desejado
 del -> Deletar arquivos dentro de uma pasta/repositório       -rm -rf -> Remover pasta com arquivos dentro.
-rmdir /S /Q -> Remover pasta com arquivos dentro.             echo Exeplo > Exemplo.txt -> Cria arquivos
-echo Exeplo > Exemplo.txt -> Cria arquivos
+rmdir /S /Q -> Remover pasta com arquivos dentro.             echo Exeplo -> Exemplo.txt -> Cria arquivos
+echo Exeplo > Exemplo.txt -> Cria arquivos                    ls -a -> listar arquivos ocultos
+                                                              git init
+                                                              git commit
+                                                              openssl sha1 exemplo.txt -> cria uma encriptação de 40 digitos para um arquivo.
+                                                              
 
 
