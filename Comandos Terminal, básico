@@ -16,6 +16,7 @@ echo Exeplo > Exemplo.txt -> Cria arquivos                    ls -a -> listar ar
                                                               openssl sha1 exemplo.txt -> cria uma encriptação de 40 digitos para um arquivo.
                                                               git config --list -> lista de configurações
                                                               git remote add origin https://exemplo.git -> adiciona repository remotamente
+                                                              git push origin master -> faz commit no repositório remoto
                                                               
 
 
