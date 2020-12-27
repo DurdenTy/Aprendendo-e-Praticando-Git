@@ -9,9 +9,13 @@ mkdir -> Cria uma pasta com o nome desejado                   mkdir -> Cria uma 
 del -> Deletar arquivos dentro de uma pasta/repositório       -rm -rf -> Remover pasta com arquivos dentro.
 rmdir /S /Q -> Remover pasta com arquivos dentro.             echo Exeplo -> Exemplo.txt -> Cria arquivos
 echo Exeplo > Exemplo.txt -> Cria arquivos                    ls -a -> listar arquivos ocultos
+                                                              git add
                                                               git init
                                                               git commit
+                                                              git status
                                                               openssl sha1 exemplo.txt -> cria uma encriptação de 40 digitos para um arquivo.
+                                                              git config --list -> lista de configurações
+                                                              git remote add origin https://exemplo.git -> adiciona repository remotamente
                                                               
 
 
