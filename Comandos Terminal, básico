@@ -17,6 +17,7 @@ echo Exeplo > Exemplo.txt -> Cria arquivos                    ls -a -> listar ar
                                                               git config --list -> lista de configurações
                                                               git remote add origin https://exemplo.git -> adiciona repository remotamente
                                                               git push origin master -> faz commit no repositório remoto
+                                                              git clone https://exemplo.git -> Baixa um repositório online
                                                               
 
 
